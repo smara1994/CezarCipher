@@ -1,0 +1,6 @@
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\bin\Debug\CezarCipher.exe.config
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\bin\Debug\CezarCipher.exe
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\bin\Debug\CezarCipher.pdb
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\obj\Debug\CezarCipher.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\obj\Debug\CezarCipher.exe
+E:\Projects\Projects\TestProjects\trunk\Sources\CezarCipher\CezarCipher\obj\Debug\CezarCipher.pdb
